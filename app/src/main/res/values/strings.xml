@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="description_hint">Description</string>
+    <string name="price_hint">Price (Numbers only)</string>
+    <string name="title_hint">Deal title</string>
+    <string name="mac">mac computer</string>
+    <string name="title_large">24sp</string>
+    <string name="new_travel_deal">new Travel Deal</string>
+    <string name="logout">Logout</string>
+</resources>
